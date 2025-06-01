@@ -1,6 +1,8 @@
-# 🧾 Python Table PDF Generator with Auto Row Height
+# 🧾 Python Table PDF Generator
 
 This project is a simple attempt to create a **PDF table** using Python's `fpdf` library, where **cell text wraps automatically** and the **row height adjusts based on the tallest cell**.
+
+**📖also to memorize keigo while I'm making the pdf**
 
 ## ✅ What It Does
 - Generates a PDF file with a table.
