@@ -21,13 +21,5 @@ The next development step is to:
 - Python
 - [`fpdf`](https://pyfpdf.github.io/fpdf2/)
 
-## 💡 Usage
-Clone the repository and run the script:
-
-```bash
-pip install fpdf
-python generate_pdf.py
-```
-
 ## 📄 Sample Output
 See Sonkeigo_Kenjougo_Verbs_Fixed.pdf for the basic output and Sonkeigo_Kenjougo_Verbs_Fixed_WrapAttempt.pdf for my ongoing text wrap attempt output!
